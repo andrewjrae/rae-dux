@@ -12,7 +12,7 @@ like this aren't to be merged into ZMK main, so you'll have to emulate what I'm
 doing in my =zmk-config= [[https://github.com/andrewjrae/zmk-config/tree/development/config][here]].
 
 ** Build Guide
-The wonderful @tzcl created a [[https://www.tzcl.me/blog/rae-dux][build guide]] for the rae-dux, so if you are curious
+The wonderful @tzcl created a [[https://www.tzcl.me/posts/rae-dux/][build guide]] for the rae-dux, so if you are curious
 about building the board, but don't have experience with this sort of thing go
 check it out!
 
